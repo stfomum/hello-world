@@ -1,4 +1,4 @@
 # hello-world
 Test repository
-I am learning how to use Git from this online Github. 
-I am a scrabbler from Cameroon and i also love reading
+first lesson on using Github online. 
+I am a scrabbler from a country in Africa and love reading Bios
