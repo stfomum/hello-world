@@ -1,0 +1,10 @@
+   {
+	"imageId" : "ami-0080e4c5bc078760e",
+	"instanceType" : "t2.micro",
+	"keyName" : "privatekeyfile",
+	"securityGroupIds" : "sg-00994774d3b38e6f2",	
+	"blockDeviceMappings" : "file://blockdevice-mapping.json",
+	"subnetId" : "subnet-f0ef8cde",
+	"userDataFile" : "user-data.sh",
+	"tagSpecifications" : "ResourceType=instance,Tags=[{Key=Name,Value=Dev}] "
+   }
